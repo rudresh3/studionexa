@@ -9,7 +9,7 @@ function App() {
   const [count, setCount] = useState(0);
 
   return (
-    <div className="w-screen gap-5 h-screen flex justify-center flex-col items-center">
+    <div className="w-screen gap-6 h-dvh flex justify-center flex-col items-center">
       <div className=" absolute top-0 w-[150px] h-[50px] text-center bg-white rounded-b-2xl shadow-md flex justify-center items-center ">
         <p className="font-[800] text-[#0B45D5]">Studio Nexa</p>
       </div>
